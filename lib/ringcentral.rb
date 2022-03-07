@@ -3,7 +3,6 @@ require 'addressable/uri'
 require 'json'
 require 'concurrent'
 require 'faraday'
-require 'faraday_middleware'
 require 'tmpdir'
 
 class RingCentral
