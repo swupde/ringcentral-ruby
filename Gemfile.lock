@@ -94,6 +94,7 @@ GEM
     timers (4.3.3)
 
 PLATFORMS
+  x86_64-darwin-19
   x86_64-darwin-20
   x86_64-linux
 
@@ -107,4 +108,4 @@ DEPENDENCIES
   rspec
 
 BUNDLED WITH
-   2.2.3
+   2.3.8

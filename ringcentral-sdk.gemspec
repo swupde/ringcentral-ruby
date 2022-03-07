@@ -17,4 +17,5 @@ Gem::Specification.new do |gem|
   gem.add_dependency('concurrent-ruby', '~> 1.1', '>= 1.1.9')
   gem.add_dependency('pubnub', '~> 5.0', '>= 5.0.0')
   gem.add_dependency('faraday', '~> 2.1', '>= 2.1.0')
+  gem.add_dependency 'faraday-multipart'
 end
